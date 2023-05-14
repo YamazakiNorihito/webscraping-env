@@ -196,3 +196,6 @@ pyrightconfig.json
 
 
 *-env/*
+
+data/*
+
